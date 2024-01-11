@@ -37,9 +37,11 @@ npm install --production
 NODE_ENV=production node app
 ```
 
+
 ## Photos Of Site
-![Main Page](site-preview/1.png)
-![Inside](site-preview/2.png)
+![Main Page](https://github.com/MohamedAYassin/online-casino-project/blob/main/site-preview/1.jpg?raw=true)
+![Inside](https://github.com/MohamedAYassin/online-casino-project/blob/main/site-preview/2.jpg?raw=true)
+
 
    [markdown-it]: <https://github.com/markdown-it/markdown-it>
    [node.js]: <http://nodejs.org>
